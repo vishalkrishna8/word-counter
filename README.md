@@ -4,6 +4,9 @@
 This is a simple Word Counter built using JavaScript that allows you to count the number of words in a text.
 
 
+<!-- ## Live demo -->
+
+
 ## Features
 
 - The app allows you to enter any text.
