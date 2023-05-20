@@ -37,5 +37,3 @@ To use this application, simply follow these steps:
 2. Enter the text you want to count the words for in the input field.
 3. The app will display the number of words in the text in real-time.
 
-
-##
