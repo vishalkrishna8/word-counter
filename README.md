@@ -38,5 +38,4 @@ To use this application, simply follow these steps:
 3. The app will display the number of words in the text in real-time.
 
 
-## License
-Ty this code 
+##
